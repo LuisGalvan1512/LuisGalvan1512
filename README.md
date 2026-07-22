@@ -82,7 +82,7 @@
 <br><br>
 
 <div align="center">
-  <h3>📊 Mis Estadísticas en GitHub</h3>
+  <h3> GitHub Statistics</h3>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisGalvan1512&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="80%" alt="GitHub Streak" />
 </div>
