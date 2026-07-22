@@ -82,10 +82,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisGalvan1512&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGalvan1512&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" alt="Top Languages" />
-  
-  <br><br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisGalvan1512&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="100%" alt="GitHub Streak" />
+  <h3>📊 Mis Estadísticas en GitHub</h3>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisGalvan1512&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="80%" alt="GitHub Streak" />
 </div>
