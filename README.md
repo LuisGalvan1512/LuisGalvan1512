@@ -1,6 +1,8 @@
 <div align="center">
 
-# Hi there 👋 I'm Luis Galván 👨🏻‍💻
+#   Hi there 
+#I'm Luis Galván 
+
 
 **A Software Developer from Peru building high-impact solutions.**
 
