@@ -20,7 +20,7 @@
 
 <br>
 
-<details>
+<details open>
   <summary><b>👨🏻‍💻 About Me</b></summary>
   <br>
   I'm a passionate Software Developer currently studying Software Design & Development at TECSUP (6th Cycle). I specialize in building scalable web applications, RESTful APIs, and cross-platform mobile apps. I love transforming ideas into software that solves real-world problems.
@@ -28,7 +28,7 @@
   🔭 <b>Currently focusing on:</b> Clean Architecture, Serverless, and Distributed Systems.<br>
 </details>
 
-<details>
+<details open>
   <summary><b>🛠️ My Tech Stack</b></summary>
   <br>
   <div align="center">
@@ -45,20 +45,10 @@
   <br>
 </details>
 
-<details>
-  <summary><b>🏆 Featured Projects</b></summary>
-  <br>
-  <ul>
-    <li>💧 <b><a href="https://luisgalvan.vercel.app/project/dewatering-solutions">Dewatering Solutions</a></b>: Corporate IoT Web Platform for mining automation (React, Node.js, PostgreSQL).</li>
-    <li>⚔️ <b><a href="https://luisgalvan.vercel.app/project/legendary-class">LegendaryClass</a></b>: Immersive and gamified LMS platform (Laravel, MongoDB).</li>
-    <li>🗳️ <b><a href="https://luisgalvan.vercel.app/project/candidato-info">CandidatoInfo 2026</a></b>: Electoral information mobile app with biometric validation (Kotlin, Django).</li>
-  </ul>
-</details>
-
 <br><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisGalvan1512&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisGalvan1512&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGalvan1512&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
   
   <br><br>
