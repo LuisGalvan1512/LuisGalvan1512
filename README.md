@@ -13,9 +13,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Mobile+Developer+(Kotlin);Passionate+about+Clean+Architecture;Building+scalable+systems" alt="Typing SVG" />
 
-<br>
-
-📫 **How to reach me:** [lusen121502@gmail.com](mailto:lusen121502@gmail.com)
 
 </div>
 
